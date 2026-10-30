@@ -1,0 +1,10 @@
+{
+  "train_accuracy": 1.0,
+  "n_samples": 626,
+  "labels": [
+    "a",
+    "i love you",
+    "l",
+    "s"
+  ]
+}
